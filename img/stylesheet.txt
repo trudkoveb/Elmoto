@@ -1,0 +1,137 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon--arrow-down-blue {
+    width: 10px;
+    height: 8px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-advantages-calendar {
+    width: 64px;
+    height: 64px;
+    background-position: -25px -5px;
+}
+
+.sprite-icon-advantages-marker {
+    width: 64px;
+    height: 64px;
+    background-position: -99px -5px;
+}
+
+.sprite-icon-advantages-star {
+    width: 64px;
+    height: 64px;
+    background-position: -5px -79px;
+}
+
+.sprite-icon-footer-arrow {
+    width: 15px;
+    height: 12px;
+    background-position: -79px -79px;
+}
+
+.sprite-icon-footer-consult {
+    width: 23px;
+    height: 21px;
+    background-position: -104px -79px;
+}
+
+.sprite-icon-footer-fb {
+    width: 25px;
+    height: 25px;
+    background-position: -137px -79px;
+}
+
+.sprite-icon-footer-g_ {
+    width: 25px;
+    height: 25px;
+    background-position: -79px -114px;
+}
+
+.sprite-icon-footer-insta {
+    width: 25px;
+    height: 25px;
+    background-position: -114px -114px;
+}
+
+.sprite-icon-footer-twitter {
+    width: 25px;
+    height: 25px;
+    background-position: -149px -114px;
+}
+
+.sprite-icon-footer-vk {
+    width: 25px;
+    height: 25px;
+    background-position: -79px -149px;
+}
+
+.sprite-icon-footer-youtube {
+    width: 25px;
+    height: 25px;
+    background-position: -114px -149px;
+}
+
+.sprite-icon-header-arrow-down {
+    width: 8px;
+    height: 6px;
+    background-position: -173px -5px;
+}
+
+.sprite-icon-header-marker {
+    width: 9px;
+    height: 12px;
+    background-position: -173px -21px;
+}
+
+.sprite-icon-header-phone {
+    width: 12px;
+    height: 12px;
+    background-position: -173px -43px;
+}
+
+.sprite-icon-lock {
+    width: 17px;
+    height: 19px;
+    background-position: -149px -149px;
+}
+
+.sprite-icon-mail {
+    width: 11px;
+    height: 8px;
+    background-position: -173px -65px;
+}
+
+.sprite-icon-mobile-phone {
+    width: 6px;
+    height: 11px;
+    background-position: -5px -43px;
+}
+
+.sprite-icon-ruble {
+    width: 8px;
+    height: 10px;
+    background-position: -172px -83px;
+}
+
+.sprite-icon-slider-left {
+    width: 48px;
+    height: 48px;
+    background-position: -195px -5px;
+}
+
+.sprite-icon-slider-right {
+    width: 48px;
+    height: 48px;
+    background-position: -195px -63px;
+}
+
+.sprite-icon-slider-ruble {
+    width: 11px;
+    height: 15px;
+    background-position: -184px -121px;
+}
